@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atv. 13", "Atv. 13\Atv. 13.csproj", "{CFE1E50B-0C1D-47E6-A790-E8EF5343EB7F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "while", "..\..\IntroduçãoC#\while\while\while.csproj", "{FAA22F68-7835-49A8-B31C-FF9CD18FDDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE1E50B-0C1D-47E6-A790-E8EF5343EB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE1E50B-0C1D-47E6-A790-E8EF5343EB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE1E50B-0C1D-47E6-A790-E8EF5343EB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE1E50B-0C1D-47E6-A790-E8EF5343EB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA22F68-7835-49A8-B31C-FF9CD18FDDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA22F68-7835-49A8-B31C-FF9CD18FDDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA22F68-7835-49A8-B31C-FF9CD18FDDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA22F68-7835-49A8-B31C-FF9CD18FDDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08F6A573-FAB7-4B60-B8E9-CDECDCF0A5A2}
+	EndGlobalSection
+EndGlobal

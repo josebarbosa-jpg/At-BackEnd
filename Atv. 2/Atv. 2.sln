@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atv. 2", "Atv. 2\Atv. 2.csproj", "{83F3D0DA-A8BA-41AC-A2F0-B5A74379C06F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soma", "..\..\IntroduçãoC#\Soma\Soma\Soma.csproj", "{AD729D12-4EA2-4CB0-BA69-AF53ED6BAF0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83F3D0DA-A8BA-41AC-A2F0-B5A74379C06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F3D0DA-A8BA-41AC-A2F0-B5A74379C06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F3D0DA-A8BA-41AC-A2F0-B5A74379C06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F3D0DA-A8BA-41AC-A2F0-B5A74379C06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD729D12-4EA2-4CB0-BA69-AF53ED6BAF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD729D12-4EA2-4CB0-BA69-AF53ED6BAF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD729D12-4EA2-4CB0-BA69-AF53ED6BAF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD729D12-4EA2-4CB0-BA69-AF53ED6BAF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F66D3D6-B39C-439E-8903-5F88878AB5FC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atv. 4", "Atv. 4\Atv. 4.csproj", "{4AAD2298-96AF-4B00-93D5-BBAAC1639F68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soma", "..\..\IntroduçãoC#\Soma\Soma\Soma.csproj", "{3C680BC9-FE19-49FC-A670-28CC85FBC819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AAD2298-96AF-4B00-93D5-BBAAC1639F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAD2298-96AF-4B00-93D5-BBAAC1639F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAD2298-96AF-4B00-93D5-BBAAC1639F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAD2298-96AF-4B00-93D5-BBAAC1639F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C680BC9-FE19-49FC-A670-28CC85FBC819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C680BC9-FE19-49FC-A670-28CC85FBC819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C680BC9-FE19-49FC-A670-28CC85FBC819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C680BC9-FE19-49FC-A670-28CC85FBC819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46442029-35E5-4F59-BA88-49B1C7B280BD}
+	EndGlobalSection
+EndGlobal
